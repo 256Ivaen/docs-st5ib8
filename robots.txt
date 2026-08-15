@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-ax3vid.asiabola110.xyz/sitemap.xml
